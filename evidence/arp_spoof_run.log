@@ -1,0 +1,40 @@
+/usr/local/lib/python3.8/dist-packages/scapy/sendrecv.py:726: SyntaxWarning: 'iface' has no effect on L3 I/O sr1(). For multicast/link-local see https://scapy.readthedocs.io/en/latest/usage.html#multicast
+  warnings.warn(
+/usr/local/lib/python3.8/dist-packages/scapy/sendrecv.py:479: SyntaxWarning: 'iface' has no effect on L3 I/O send(). For multicast/link-local see https://scapy.readthedocs.io/en/latest/usage.html#multicast
+  warnings.warn(
+WARNING: You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: more You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: more You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: more You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: more You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: more You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: more You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: more You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: more You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: more You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: more You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: more You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: You should be providing the Ethernet destination MAC address when sending an is-at ARP.
+WARNING: more You should be providing the Ethernet destination MAC address when sending an is-at ARP.

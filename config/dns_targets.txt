@@ -1,0 +1,3 @@
+# example target domains to spoof (one per line)
+example.local
+testsite.local

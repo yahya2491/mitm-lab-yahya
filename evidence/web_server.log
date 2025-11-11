@@ -1,0 +1,5 @@
+[2024-11-10 15:31:15] GET / from 10.0.0.10 - User-Agent: curl/7.68.0
+[2024-11-10 15:31:16] GET /index.html from 10.0.0.10 - User-Agent: Mozilla/5.0 (victim browser)
+[2024-11-10 15:31:17] GET /favicon.ico from 10.0.0.10 - User-Agent: Mozilla/5.0 (victim browser)
+[2024-11-10 15:31:30] GET / from 10.0.0.10 - User-Agent: curl/7.68.0
+[2024-11-10 15:31:45] GET / from 10.0.0.10 - User-Agent: wget/1.20.3

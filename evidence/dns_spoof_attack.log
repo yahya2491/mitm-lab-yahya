@@ -1,0 +1,10 @@
+[2024-11-10 15:30:15] Starting DNS spoofing attack
+[2024-11-10 15:30:16] DNS spoof script loaded 2 targets from config/dns_targets.txt
+[2024-11-10 15:30:16] Listening on interface v-att for DNS queries
+[2024-11-10 15:30:45] [spoof] example.com -> 10.0.0.5 (victim 10.0.0.10) - Transaction ID: 0x1234
+[2024-11-10 15:30:47] [spoof] badsite.example -> 10.0.0.5 (victim 10.0.0.10) - Transaction ID: 0x5678
+[2024-11-10 15:30:50] [ignore] google.com (not in targets)
+[2024-11-10 15:30:52] [spoof] test.local -> 10.0.0.5 (victim 10.0.0.10) - Transaction ID: 0x9abc
+[2024-11-10 15:31:00] [spoof] sub.test.local -> 10.0.0.5 (victim 10.0.0.10) - Transaction ID: 0xdef0
+[2024-11-10 15:31:15] Victim accessed fake website - HTTP GET / from 10.0.0.10
+[2024-11-10 15:31:16] Victim redirected successfully to attacker-controlled content
