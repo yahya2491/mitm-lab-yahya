@@ -43,6 +43,6 @@ scapy
 ```
 
 ## Usage
-Run attack scripts with appropriate network interface and target configurations. See individual script help for detailed options.
+Run attack scripts with appropriate network interface and target configurations.
 
-**Note:** This is for educational/research purposes in controlled environments only.
+**Note:** This is for educational purposes in controlled environments only.
